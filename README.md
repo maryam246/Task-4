@@ -49,3 +49,5 @@ Swap variables mean the values of multiple variables are exchange.In python ther
 Private variable means that scope of variables values is within the class.and the values of variables is not accessed outside the class.<br>
 In Python, to declare private variables or methods, single or double underscores are used.<br>
 In Python, there is no strict concept of "private variables" like you might find in some other programming languages.<br>We can access the private variables outside the class in python by (variable name._class name__private) this concept called the name mangling.<br>
+## Name(A special variable)in python:<br>
+In Python, __name__ is a special variable that tells you whether your Python script is being run directly or if it's being imported as a module into another script.<br>
