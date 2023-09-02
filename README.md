@@ -30,15 +30,15 @@ Python automatically converts one data type to another. This is known as implici
 User manually converts one data type to another. This is known as Explicit type conversion.<br>
 ## Bytes object VS String in python:<br>
 ### Bytes object:<br>
-1)Objects are sequences of bytes<br>
-2)<br>
-3)<br>
-4)<br>
+1)Objects are sequences of bytes.<br>
+2)Byte objects are in machine readable form.<br>
+3)Byte objects are machine readable, they can be directly stored on the disk.<br>
+4)Conversion from bytes to String is known as decoding.<br>
 ### String:<br>
 1)String are sequences of character<br>
-2)<br>
-3)<br>
-4)<br>
+2)Strings are only in human readable form.<br>
+3)Strings need encoding before which they can be stored on disk.<br>
+4)Conversion from string to bytes is known as encoding<br>
 
 ## swap variable:<br>
 Swap variables mean the values of multiple variables are exchange.In python there is various method to swap the variables.<br>
